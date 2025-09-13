@@ -1,2 +1,3 @@
-myenv
+blog-env
 .vscode
+__pycache__
